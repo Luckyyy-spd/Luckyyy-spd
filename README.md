@@ -1,48 +1,86 @@
-# 👨‍💻 Amiel Samaniego | Aspiring Developer
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Luckyyy-spd.Luckyyy-spd" />
 
-## ✨ About Me
-- 🎓 2nd-year BSIT student with a passion for building meaningful applications
-- 🚀 Currently developing an innovative Capstone project
-- 💡 Constantly learning and exploring new technologies
-- 🌱 Growing my skills in full-stack development
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luckyyy!;" />
+</h1>
 
-## 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<h3 align="center">A passionate BSIT student & aspiring developer 🚀</h3>
+<br/>
 
-### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+<div align="center">
+ 
+ 🔭 I'm currently working on **our Capstone project**
+ 
+ 🌱 I'm currently learning **Full-Stack Development, Cloud Services, DevOps**
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+ 💬 Ask me about **Java, HTML/CSS, JavaScript... or anything [here](https://github.com/Luckyyy-spd/Luckyyy-spd/issues)**
 
-### DevOps & Tools
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+ ⚡ Fun fact **The first computer bug was an actual real-life bug - a moth stuck in a Harvard Mark II computer in 1947**
+ 
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:amiel.samaniego14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/YourLinkedInHere" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Luckyyy-spd" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luckyyy-spd&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Luckyyy-spd&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyyy-spd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,java,python,cpp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,mysql,mongodb,azure,git,github,vscode" /><br>
+</div>
 
-## 📫 Let's Connect!
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiel.samaniego14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInHere)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luckyyy-spd)
+<br/>
+<hr/>
 
----
-*"Building the future, one line of code at a time."*
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Luckyyy-spd/Luckyyy-spd/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Luckyyy-spd&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Luckyyy-spd&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyyy-spd&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h2 align="center">🚀 My Projects 🚀</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/Luckyyy-spd/YourProjectName">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luckyyy-spd&repo=YourProjectName&theme=radical" alt="Project Card" />
+  </a>
+  <!-- Add more project cards as needed -->
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Luckyyy-spd/count.svg" alt="Visitor Count"/>
+  <h3>Thanks for visiting! 😊</h3>
+</div>
+
+<br/>
