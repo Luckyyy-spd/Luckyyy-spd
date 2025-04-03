@@ -23,9 +23,6 @@
   <a href="mailto:amiel.samaniego14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/YourLinkedInHere" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
   <a href="https://github.com/Luckyyy-spd" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
@@ -68,10 +65,9 @@
 <h2 align="center">🚀 My Projects 🚀</h2>
 <br>
 <div align="center">
-  <a href="https://github.com/Luckyyy-spd/YourProjectName">
+  <a href="https://github.com/Luckyyy-spd/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luckyyy-spd&repo=YourProjectName&theme=radical" alt="Project Card" />
   </a>
-  <!-- Add more project cards as needed -->
 </div>
 
 <br/>
