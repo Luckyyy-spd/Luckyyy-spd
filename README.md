@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **our Capstone project**
+ <!-- 🔭 I'm currently working on **our Capstone project** -->
  
  🌱 I'm currently learning **Full-Stack Development, Cloud Services, DevOps**
 
