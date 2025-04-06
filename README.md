@@ -53,10 +53,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="![Luckyyy-spd's Stats](https://github-readme-stats.vercel.app/api?username=Luckyyy-spd&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)" alt="streak stats"/>
-  <img width=390 src="![Luckyyy-spd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luckyyy-spd&theme=midnight-purple&hide_border=true)" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Luckyyy-spd&count_private=true&theme=radical&background=black&stroke=red&ring=red&fire=red&border=0" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Luckyyy-spd&count_private=true&show_icons=true&theme=radical&bg_color=black&title_color=red&text_color=white&border=0" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="![Luckyyy-spd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyyy-spd&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyyy-spd&hide=HTML&langs_count=8&layout=compact&theme=radical&bg_color=black&title_color=red&text_color=white&border=0" alt="top langs" />
 </div>
 
 <br/><br/>
