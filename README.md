@@ -10,11 +10,11 @@
 <div align="center">
  <!-- 🔭 I'm currently working on **our Capstone project** --> 
  
- 🌱 I'm currently learning **Full-Stack Development, Cloud Services, DevOps**
+ 🌱 I'm currently learning **Full-Stack Development, Game Development, Cloud Services**
 
- 💬 Ask me about **Java, HTML/CSS, JavaScript... or anything [here](https://github.com/Luckyyy-spd/Luckyyy-spd/issues)**
+ 💬 Ask me about **Java, HTML/CSS, JavaScript, PHP, or anything [here](https://github.com/Luckyyy-spd/Luckyyy-spd/issues)**
 
- ⚡ Fun fact **The first computer bug was an actual real-life bug - a moth stuck in a Harvard Mark II computer in 1947**
+ ⚡ Fun fact: **The first computer bug was an actual real-life bug - a moth stuck in a Harvard Mark II computer in 1947**
  
 </div>
  
@@ -27,13 +27,24 @@
   </a>
 </div>
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,java,python,cpp" />
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,mysql,mongodb,azure,git,github,vscode" /><br>
+  <b>Web:</b> HTML, CSS, JavaScript, PHP<br/>
+  <b>Programming:</b> Java, C++, Python<br/>
+  <b>Mobile:</b> Kotlin, Flutter, Swift<br/>
+  <b>Frameworks:</b> Laravel, React, Bootstrap<br/>
+  <b>Databases:</b> MongoDB, MySQL, Azure SQL<br/>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🌐 Main Technology Focus 🌐</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,python,cpp,kotlin" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter,swift,laravel,react,bootstrap,mongodb,mysql,azure" /><br>
 </div>
 
 <br/>
@@ -58,22 +69,8 @@
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyyy-spd&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 </div>
-
+<hr></hr>
 <br/><br/>
-<hr/>
-<!-- 
-<h2 align="center">🚀 My Projects 🚀</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/Luckyyy-spd/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luckyyy-spd&repo=YourProjectName&theme=radical" alt="Project Card" />
-  </a>
-</div> -->
-
-<br/>
-<hr/>
-<br/>
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Luckyyy-spd/count.svg" alt="Visitor Count"/>
   <h3>Thanks for visiting! 😊</h3>
