@@ -22,7 +22,7 @@
   <a href="mailto:amiel.samaniego14@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://my-portfolio-rouge-eta-43.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://lancesamaniego.vercel.app/" target="_blank" rel="noopener noreferrer">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
