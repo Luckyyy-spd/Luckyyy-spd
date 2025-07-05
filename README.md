@@ -43,8 +43,8 @@
 <h2 align="center">🌐 Main Technology Focus 🌐</h2>
 <br/>
 <div align="center">
-  img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,php,kotlin,flutter" /><br>
-  img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwindcss,mongodb,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,php,kotlin,flutter" /><br>
+  <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwindcss,mongodb,mysql" /><br>
 </div>
 
 <br/>
