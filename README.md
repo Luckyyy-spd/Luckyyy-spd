@@ -30,11 +30,11 @@
 <h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <br/>
 <div align="center">
-  <b>Web:</b> HTML, CSS, JavaScript, PHP<br/>
-  <b>Programming:</b> Java, C++, Python<br/>
-  <b>Mobile:</b> Kotlin, Flutter, Swift<br/>
-  <b>Frameworks:</b> Laravel, React, Bootstrap<br/>
-  <b>Databases:</b> MongoDB, MySQL, Azure SQL<br/>
+  <b>Frontend:</b> React, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap<br/>
+  <b>Backend:</b> PHP, Laravel, Node.js<br/>
+  <b>Mobile:</b> Kotlin, Flutter<br/>
+  <b>Databases:</b> MongoDB, MySQL<br/>
+  <b>Other:</b> Azure, AI/ML<br/>
 </div>
 
 <br/>
@@ -43,8 +43,8 @@
 <h2 align="center">🌐 Main Technology Focus 🌐</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,python,cpp,kotlin" /><br>
-  <img src="https://skillicons.dev/icons?i=flutter,swift,laravel,react,bootstrap,mongodb,mysql,azure" /><br>
+  img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript,php,kotlin,flutter" /><br>
+  img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwindcss,mongodb,mysql" /><br>
 </div>
 
 <br/>
