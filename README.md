@@ -63,17 +63,17 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Luckyyy-spd&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Luckyyy-spd&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="readme stats"/>
-  <br/>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyyy-spd&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+  <!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=Luckyyy-spd&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true"/> -->
+  <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=Luckyyy-spd&theme=shadow_red&hide_border=false"/>
+  <!-- <br/>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyyy-spd&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 </div>
 </div>
-<hr></hr>
-<br/><br/>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Luckyyy-spd/count.svg" alt="Visitor Count"/>
+<!-- <hr></hr>
+<br/><br/> -->
+<!-- <div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Luckyyy-spd&icon=0&color=0)](https://visitcount.itsvg.in"/>
   <h3>Thanks for visiting! 😊</h3>
-</div>
+</div> -->
 
 <br/>
